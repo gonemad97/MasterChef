@@ -9,7 +9,6 @@ MasterChef is a culinary application that recommends recipes based on available 
 3. Pedram Shahroodi - Northeastern University
 
 ## Heroku App:
-Steps of application use is mentioned in the documentation.
 
 https://project-master-chef.herokuapp.com
 
