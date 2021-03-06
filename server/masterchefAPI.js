@@ -5,8 +5,7 @@ var __client;
 async function getDB() {
     if (__client == null) {
         const { MongoClient } = require('mongodb');
-        // const url = 'mongodb://localhost:/masterchef';
-        let url = "mongodb+srv://Madhuri:neu@cluster0.tclrt.mongodb.net/masterchef?retryWrites=true&w=majority";
+        let url = "xxx";
         let client = new MongoClient(url, { useNewUrlParser: true, useUnifiedTopology: true  });
         try {
             await client.connect(); // connect to server and save connection
