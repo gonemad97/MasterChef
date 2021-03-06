@@ -1,0 +1,32 @@
+{
+  "name": "cs5610_masterchef",
+  "version": "1.0.0",
+  "description": "CS5610 Web Development Final Project",
+  "main": "index.js",
+  "scripts": {
+    "watch": "webpack --watch",
+    "compile": "webpack",
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Madhuri Palanivelu",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "cookie-parser": "^1.4.5",
+    "csvtojson": "^2.0.10",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "react-bootstrap": "^1.4.0",
+    "universal-cookie": "^4.0.4"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.7",
+    "@babel/core": "^7.12.7",
+    "@babel/preset-react": "^7.12.7",
+    "babel-loader": "^8.2.2",
+    "file-loader": "^6.2.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
