@@ -8,10 +8,6 @@ MasterChef is a culinary application that recommends recipes based on available 
 2. Madhuri Palanivelu - Northeastern University
 3. Pedram Shahroodi - Northeastern University
 
-## Heroku App:
-
-https://project-master-chef.herokuapp.com
-
 ## Repository Contents:
 
 #### root
